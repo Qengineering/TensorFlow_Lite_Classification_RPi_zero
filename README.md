@@ -2,7 +2,8 @@
 ![output image]( https://qengineering.eu/images/Schoolbus2.png )
 ## TensorFlow Lite classification running on a bare Raspberry Pi Zero
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
-A fast C++ implementation of TensorFlow Lite classification on a bare Raspberry Pi 4.<br/>
+A 'fast' C++ implementation of TensorFlow Lite classification on a bare Raspberry Pi zero.<br>
+Be noted that we use the zero version here, not the new Raspberry Pi zero 2.<br/>
 Inference time: 11 sec<br/>
 Special made for a Jetson Nano see [Q-engineering deep learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html) <br/>
 
